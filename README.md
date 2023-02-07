@@ -14,5 +14,6 @@ Un blog increíble para el[ curso de Git y Github](https://platzi.com/cursos/git
 * Disponible para todas las edades
 * Aprendiendo un tema nuevo Cherry - Pick
 * Incluye unas notas de comandos en D:\yaguilar\PLATZI\Git - Github
+* Facil de entender
 
 Y como un amable recordatorio: **Este readme.md es un chiste**.  Diseñado para el ejemplo. Si llegas acá NO TE LO TOMES EN SERIO y mejor ve [**a ver el curso**](https://platzi.com/cursos/git-github/ "a ver el curso").
